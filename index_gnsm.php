@@ -7,6 +7,6 @@
     <title>Bienvenido prueba ERP</title>
 </head>
 <body>
-    <h3>Bienvenido a prueba de ERP</h3>
+    <h3>Bienvenido a prueba de ERP- Geraldyne</h3>
 </body>
 </html>
